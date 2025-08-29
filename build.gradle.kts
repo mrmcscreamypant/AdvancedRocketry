@@ -92,7 +92,7 @@ minecraft {
             properties(
                 mapOf(
                     "forge.logging.markers" to "SCAN,REGISTRIES,REGISTRYDUMP,COREMODLOG",
-                    "forge.logging.console.level" to "info"
+                    "forge.logging.console.level" to "debug"
                 )
             )
 
