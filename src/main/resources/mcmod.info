@@ -2,7 +2,7 @@
 {
   "modid": "advancedrocketry",
   "name": "Advanced Rocketry (John Edition)",
-  "description": "A space mod for minecraft, adds planets, rockets, and some machines",
+  "description": "A space mod for minecraft, adds planets, rockets, and some machines.",
   "version": "${advRocketryVersion}",
   "mcversion": "${mcVersion}",
   "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry-2",

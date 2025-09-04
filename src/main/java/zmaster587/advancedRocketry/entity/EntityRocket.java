@@ -100,7 +100,7 @@ public class EntityRocket extends EntityRocketBase implements INetworkEntity, IM
     private Vec3d poscorrection;
     private Vec3d velcorrection;
     boolean last_was_in_orbit = false;
-    boolean        reset_position = true;
+    boolean reset_position = true;
     boolean reset_motion = true;
 
     private static final int BUTTON_ID_OFFSET = 25;
